@@ -1,3 +1,4 @@
+/*posts*/
 const mongoose = require('mongoose');
 
 
